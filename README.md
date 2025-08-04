@@ -7,11 +7,10 @@ This repository was created as part of the AI-SSD research project by the [Depar
 This repository provides a collection of test cases designed to replicate and study various security vulnerabilities in software. It is intended for research and educational purposes only.
 
 ## How to use
-All test cases are located in the ***"vulnerabilities/"*** directory. Each folder is named using the following convention:
+All test cases are located in the ***"vulnerabilities/"*** directory. Each folder is named using the following convention: **[CVE-ID]_[CWE-TYPE]**
 
-> [CVE-ID]_[CWE-TYPE]
-
-For example: _CVE-2021-1234_CWE-79_
+For example: 
+> CVE-2021-1234_CWE-79
 
 
 Each folder typically contains:
